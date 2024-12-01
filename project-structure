@@ -1,0 +1,12 @@
+admin-system/
+├── src/
+│   ├── api/
+│   ├── assets/
+│   ├── components/
+│   ├── layout/
+│   ├── router/
+│   ├── store/
+│   ├── utils/
+│   ├── views/
+│   ├── App.vue
+│   └── main.js 
